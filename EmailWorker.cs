@@ -1,5 +1,5 @@
-import system;
-import system.text.regularExpressions;
+import System;
+import System.Text.RegularExpressions;
 
 public class EmailWorker
 {
